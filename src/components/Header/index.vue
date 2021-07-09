@@ -13,6 +13,7 @@
           </p>
         </div>
         <div class="typeList">
+        <a href='###'>我的商品</a>
           <a href="###">我的订单</a>
           <a href="###">我的购物车</a>
           <a href="###">我的尚品汇</a>
